@@ -10,31 +10,31 @@ https://presupuesto-semanal-jp.netlify.app
 </br>
 <h3>Comenzarás indicando tu presupuesto.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img1.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img1.png" style="width: 25%"/>
 </br>
 </br>
 
 <h3>Luego cargarás tus gastos: a qué los destinarás y la cantidad de dinero que emplearás en ellos</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img2.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img2.png" style="width: 25%/>
 </br>
 </br>
 
 <h3>Al presionar "Agregar gastos" empezarás a listarlos.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img3.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img3.png" style="width: 25%/>
 </br>
 </br>
 
 <h3>Aquí un ejemplo superando el 50% del presupuesto.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img4.png"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img4.png" style="width: 25%/>
 </br>
 </br>
 <h3>En este caso se llama la atención al usuario resaltando su restante en rojo (se ha superado el 75% del presupuesto).</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img5.png"/>
-<strong>En este proyecto se trabajó con Hooks y Local Storage.</strong>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img5.png" style="width: 25%/>
+<strong>En este proyecto se trabajó con Hooks. Se realizó la documentación con PropTypes</strong>
 
 Podrás correrlo de forma local también, para hacerlo:
-En la ubicación '/AppCitas' deberás realizar un 'npm install' primero y luego 'npm start'. Verás la aplicación en tu localhost 
+En la ubicación '/presupuesto/client' deberás realizar un 'npm install' primero y luego 'npm start'. Verás la aplicación en tu localhost 
