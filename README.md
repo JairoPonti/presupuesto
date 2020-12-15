@@ -10,30 +10,30 @@ https://presupuesto-semanal-jp.netlify.app
 </br>
 <h3>Comenzarás indicando tu presupuesto.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img1.png" style="width: 25%"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img1.png"/>
 </br>
 </br>
 
 <h3>Luego cargarás tus gastos: a qué los destinarás y la cantidad de dinero que emplearás en ellos</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img2.png" style="width: 25%"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img2.png"/>
 </br>
 </br>
 
 <h3>Al presionar "Agregar gastos" empezarás a listarlos.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img3.png" style="width: 25%"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img3.png"/>
 </br>
 </br>
 
 <h3>Aquí un ejemplo superando el 50% del presupuesto.</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img4.png" style="width: 25%"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img4.png"/>
 </br>
 </br>
 <h3>En este caso se llama la atención al usuario resaltando su restante en rojo (se ha superado el 75% del presupuesto).</h3>
 </br>
-<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img5.png" style="width: 25%"/>
+<img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img5.png"/>
 <strong>En este proyecto se trabajó con Hooks. Se realizó la documentación con PropTypes</strong>
 
 Podrás correrlo de forma local también, para hacerlo:
