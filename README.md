@@ -5,7 +5,7 @@ Presupuesto es una aplicación web responsive con la que podés fijar inicialmen
 
 Podés probarla en el siguiente enlace: 
 
-presupuesto-semanal-jp.netlify.app
+https://presupuesto-semanal-jp.netlify.app
 </br>
 </br>
 <h3>Comenzarás indicando tu presupuesto.</h3>
