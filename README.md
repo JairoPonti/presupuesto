@@ -35,6 +35,6 @@ https://presupuesto-semanal-jp.netlify.app
 </br>
 <img src= "https://raw.githubusercontent.com/JairoPonti/presupuesto/main/client/src/screenShots/img5.png"/>
 <strong>En este proyecto se trabajó con Hooks. Se realizó la documentación con PropTypes</strong>
-
+</br>
 Podrás correrlo de forma local también, para hacerlo:
 En la ubicación '/presupuesto/client' deberás realizar un 'npm install' primero y luego 'npm start'. Verás la aplicación en tu localhost 
